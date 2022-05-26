@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
-import Table from "./Table";
+import Table from "./components/Table";
 import axios from "axios";
 
 

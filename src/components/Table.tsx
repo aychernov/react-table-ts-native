@@ -15,7 +15,6 @@ interface data{
 }
 
 const Table = (props:data) => {
-    console.log(props)
 
     return (
         <table>
